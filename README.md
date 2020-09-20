@@ -1,4 +1,4 @@
-## This project was created only for learning purposes and futuro demonstration on CV
+## This project was created only for learning purposes and future demonstration on personal CV
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
